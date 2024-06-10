@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block title %}
+GT STocks - Home
+{% endblock %}
+
+{% block content %}   
+    <div class="container">
+        {% if portfolio_list %}
+            <div class="h2">Portfolios</div>
+            <div class="portfolio-list">
+                {% for portfolio in portfolio_list %}
+                    <div class="row {% cycle 'row1' 'row2' %}">
+                        <div class="col-9">
+                            <a href="portfolio/{{ portfolio.id }}">{{ portfolio }}</a>
+                        </div>
+                        <div class="col text-right">
+                            <!-- (<a href="portfolio/{{ portfolio.id }}/edit">edit</a>) -->
+                            <a href="portfolio/{{ portfolio.id }}/edit">
+                                <i class="fas fa-edit"></i>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <p>No portfolios have been created.</p>
+        {% endif %}
+        <div class="row add-portfolio">
+            <div class="col">
+                <a href="new">
+                    <i class="fas fa-plus"></i>
+                    Add new
+                </a>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block back_button %}
+{% endblock %}

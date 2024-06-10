@@ -1,0 +1,3791 @@
+[
+  {
+    "model": "portfolio_app.stock",
+    "pk": 445,
+    "fields": {
+      "name": "786 Investments Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/786",
+      "symbol": "786"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 446,
+    "fields": {
+      "name": "AL-Abbas Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AABS",
+      "symbol": "AABS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 447,
+    "fields": {
+      "name": "Allied Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ABL",
+      "symbol": "ABL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 448,
+    "fields": {
+      "name": "Abbott Lab (Pakistan) Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ABOT",
+      "symbol": "ABOT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 449,
+    "fields": {
+      "name": "Attock Cement Pakistan Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ACPL",
+      "symbol": "ACPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 450,
+    "fields": {
+      "name": "Adam Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ADAMS",
+      "symbol": "ADAMS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 451,
+    "fields": {
+      "name": "Artistic Denim Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ADMM",
+      "symbol": "ADMM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 452,
+    "fields": {
+      "name": "Ados Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ADOS",
+      "symbol": "ADOS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 453,
+    "fields": {
+      "name": "Arshad Energy Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AEL",
+      "symbol": "AEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 454,
+    "fields": {
+      "name": "Askari General Insurance Co. XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGIC",
+      "symbol": "AGIC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 455,
+    "fields": {
+      "name": "Agriauto Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGIL",
+      "symbol": "AGIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 456,
+    "fields": {
+      "name": "Agritech Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGL",
+      "symbol": "AGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 457,
+    "fields": {
+      "name": "AGP Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGP",
+      "symbol": "AGP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 458,
+    "fields": {
+      "name": "Abdullah Shah Ghazi Sugar",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGSML",
+      "symbol": "AGSML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 459,
+    "fields": {
+      "name": "Al-Ghazi Tractors Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AGTL",
+      "symbol": "AGTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 460,
+    "fields": {
+      "name": "Arif Habib Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AHCL",
+      "symbol": "AHCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 461,
+    "fields": {
+      "name": "Arif Habib Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AHL",
+      "symbol": "AHL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 462,
+    "fields": {
+      "name": "Ahmad Hassan Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AHTM",
+      "symbol": "AHTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 463,
+    "fields": {
+      "name": "Adamjee Insurance Co. Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AICL",
+      "symbol": "AICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 464,
+    "fields": {
+      "name": "Askari Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AKBL",
+      "symbol": "AKBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 465,
+    "fields": {
+      "name": "AKD Capital Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AKDCL",
+      "symbol": "AKDCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 466,
+    "fields": {
+      "name": "AL-Khair Gadoon Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AKGL",
+      "symbol": "AKGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 467,
+    "fields": {
+      "name": "AkzoNobel Pakistan",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AKZO",
+      "symbol": "AKZO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 468,
+    "fields": {
+      "name": "Askari Life Assurance Co.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ALAC",
+      "symbol": "ALAC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 469,
+    "fields": {
+      "name": "AL-Noor Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ALNRS",
+      "symbol": "ALNRS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 470,
+    "fields": {
+      "name": "Altern Energy Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ALTN",
+      "symbol": "ALTN"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 471,
+    "fields": {
+      "name": "Apna Microfinance Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AMBL",
+      "symbol": "AMBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 472,
+    "fields": {
+      "name": "Azgard Nine Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ANL",
+      "symbol": "ANL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 473,
+    "fields": {
+      "name": "Attock Petroleum Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/APL",
+      "symbol": "APL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 474,
+    "fields": {
+      "name": "Allied Rental Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ARM",
+      "symbol": "ARM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 475,
+    "fields": {
+      "name": "Arpak International Investments",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ARPAK",
+      "symbol": "ARPAK"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 476,
+    "fields": {
+      "name": "Archroma Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ARPL",
+      "symbol": "ARPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 477,
+    "fields": {
+      "name": "Aruj Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ARUJ",
+      "symbol": "ARUJ"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 478,
+    "fields": {
+      "name": "Al Shaheer Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ASC",
+      "symbol": "ASC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 479,
+    "fields": {
+      "name": "Ashfaq Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ASHT",
+      "symbol": "ASHT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 480,
+    "fields": {
+      "name": "Asia Insurance Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ASIC",
+      "symbol": "ASIC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 481,
+    "fields": {
+      "name": "Aisha Steel Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ASL",
+      "symbol": "ASL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 482,
+    "fields": {
+      "name": "Amreli Steels Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ASTL",
+      "symbol": "ASTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 483,
+    "fields": {
+      "name": "Atlas Battery Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ATBA",
+      "symbol": "ATBA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 484,
+    "fields": {
+      "name": "Atlas Insurance Ltd XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ATIL",
+      "symbol": "ATIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 485,
+    "fields": {
+      "name": "Atlas Honda Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ATLH",
+      "symbol": "ATLH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 486,
+    "fields": {
+      "name": "Attock Refinery Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ATRL",
+      "symbol": "ATRL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 487,
+    "fields": {
+      "name": "Avanceon Limited XB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AVN",
+      "symbol": "AVN"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 488,
+    "fields": {
+      "name": "Allawasaya Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AWTX",
+      "symbol": "AWTX"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 489,
+    "fields": {
+      "name": "Awwal Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/AWWAL",
+      "symbol": "AWWAL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 490,
+    "fields": {
+      "name": "Bank Alfalah Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BAFL",
+      "symbol": "BAFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 491,
+    "fields": {
+      "name": "Baba Farid Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BAFS",
+      "symbol": "BAFS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 492,
+    "fields": {
+      "name": "Bank Al Habib Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BAHL",
+      "symbol": "BAHL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 493,
+    "fields": {
+      "name": "Bata (Pakistan) Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BATA",
+      "symbol": "BATA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 494,
+    "fields": {
+      "name": "Bolan Castings Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BCL",
+      "symbol": "BCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 495,
+    "fields": {
+      "name": "Babri Cotton Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BCML",
+      "symbol": "BCML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 496,
+    "fields": {
+      "name": "Berger Paints Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BERG",
+      "symbol": "BERG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 497,
+    "fields": {
+      "name": "B.F. Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BFMOD",
+      "symbol": "BFMOD"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 498,
+    "fields": {
+      "name": "Balochistan Glass Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BGL",
+      "symbol": "BGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 499,
+    "fields": {
+      "name": "Bhanero Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BHAT",
+      "symbol": "BHAT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 500,
+    "fields": {
+      "name": "Biafo Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BIFO",
+      "symbol": "BIFO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 501,
+    "fields": {
+      "name": "BankIslami Pakistan Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BIPL",
+      "symbol": "BIPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 502,
+    "fields": {
+      "name": "BIPL Securities Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BIPLS",
+      "symbol": "BIPLS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 503,
+    "fields": {
+      "name": "Bannu Woollen Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BNWM",
+      "symbol": "BNWM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 504,
+    "fields": {
+      "name": "Bank of Khyber",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BOK",
+      "symbol": "BOK"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 505,
+    "fields": {
+      "name": "Bank of Punjab",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BOP",
+      "symbol": "BOP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 506,
+    "fields": {
+      "name": "Burshane LPG (Pakistan)",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BPL",
+      "symbol": "BPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 507,
+    "fields": {
+      "name": "B.R.R. Guardian Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BRR",
+      "symbol": "BRR"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 508,
+    "fields": {
+      "name": "Blessed Textiles Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BTL",
+      "symbol": "BTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 509,
+    "fields": {
+      "name": "Buxly Paints Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BUXL",
+      "symbol": "BUXL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 510,
+    "fields": {
+      "name": "Bestway Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BWCL",
+      "symbol": "BWCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 511,
+    "fields": {
+      "name": "Baluchistan Wheels Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BWHL",
+      "symbol": "BWHL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 512,
+    "fields": {
+      "name": "Byco Petroleum Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/BYCO",
+      "symbol": "BYCO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 513,
+    "fields": {
+      "name": "Crescent Cotton Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CCM",
+      "symbol": "CCM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 514,
+    "fields": {
+      "name": "Century Insurance Co. Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CENI",
+      "symbol": "CENI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 515,
+    "fields": {
+      "name": "Century Paper & Board Mills",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CEPB",
+      "symbol": "CEPB"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 516,
+    "fields": {
+      "name": "Crescent Fibres Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CFL",
+      "symbol": "CFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 517,
+    "fields": {
+      "name": "Chashma Sugar Mills Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CHAS",
+      "symbol": "CHAS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 518,
+    "fields": {
+      "name": "Cherat Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CHCC",
+      "symbol": "CHCC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 519,
+    "fields": {
+      "name": "Clover Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CLOV",
+      "symbol": "CLOV"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 520,
+    "fields": {
+      "name": "Colgate-Palmolive (Pakistan)",
+      "url": "https:\/\/dps.psx.com.pk\/company\/COLG",
+      "symbol": "COLG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 521,
+    "fields": {
+      "name": "Cherat Packaging Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CPPL",
+      "symbol": "CPPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 522,
+    "fields": {
+      "name": "Crescent Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CRTM",
+      "symbol": "CRTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 523,
+    "fields": {
+      "name": "Crescent Steel & Allied Products",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CSAP",
+      "symbol": "CSAP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 524,
+    "fields": {
+      "name": "Crescent Star Insurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CSIL",
+      "symbol": "CSIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 525,
+    "fields": {
+      "name": "Crescent Standard Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CSM",
+      "symbol": "CSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 526,
+    "fields": {
+      "name": "Colony Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CTM",
+      "symbol": "CTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 527,
+    "fields": {
+      "name": "Chakwal Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CWSM",
+      "symbol": "CWSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 528,
+    "fields": {
+      "name": "Cyan Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/CYAN",
+      "symbol": "CYAN"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 529,
+    "fields": {
+      "name": "Data Agro Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DAAG",
+      "symbol": "DAAG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 530,
+    "fields": {
+      "name": "Dadex Eternit Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DADX",
+      "symbol": "DADX"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 531,
+    "fields": {
+      "name": "Dawood Hercules Corporation XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DAWH",
+      "symbol": "DAWH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 532,
+    "fields": {
+      "name": "Dewan Cement Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DCL",
+      "symbol": "DCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 533,
+    "fields": {
+      "name": "Dolmen City REIT",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DCR",
+      "symbol": "DCR"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 534,
+    "fields": {
+      "name": "Dawood Equities Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DEL",
+      "symbol": "DEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 535,
+    "fields": {
+      "name": "Dewan Farooque Spinning",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DFSM",
+      "symbol": "DFSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 536,
+    "fields": {
+      "name": "D.G. Khan Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DGKC",
+      "symbol": "DGKC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 537,
+    "fields": {
+      "name": "Din Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DINT",
+      "symbol": "DINT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 538,
+    "fields": {
+      "name": "Dawood Lawrencepur Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DLL",
+      "symbol": "DLL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 539,
+    "fields": {
+      "name": "Dandot Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DNCC",
+      "symbol": "DNCC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 540,
+    "fields": {
+      "name": "Descon Oxychem Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DOL",
+      "symbol": "DOL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 541,
+    "fields": {
+      "name": "D. S. Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DSIL",
+      "symbol": "DSIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 542,
+    "fields": {
+      "name": "Dost Steels Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DSL",
+      "symbol": "DSL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 543,
+    "fields": {
+      "name": "Dynea Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/DYNO",
+      "symbol": "DYNO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 544,
+    "fields": {
+      "name": "EcoPack Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ECOP",
+      "symbol": "ECOP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 545,
+    "fields": {
+      "name": "Engro Fertilizers Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EFERT",
+      "symbol": "EFERT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 546,
+    "fields": {
+      "name": "EFG Hermes Pakistan",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EFGH",
+      "symbol": "EFGH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 547,
+    "fields": {
+      "name": "Engro Foods Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EFOODS",
+      "symbol": "EFOODS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 548,
+    "fields": {
+      "name": "EFU General Insurance Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EFUG",
+      "symbol": "EFUG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 549,
+    "fields": {
+      "name": "EFU Life Assurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EFUL",
+      "symbol": "EFUL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 550,
+    "fields": {
+      "name": "Elahi Cotton Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ELCM",
+      "symbol": "ELCM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 551,
+    "fields": {
+      "name": "Ellcot Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ELSM",
+      "symbol": "ELSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 552,
+    "fields": {
+      "name": "Emco Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EMCO",
+      "symbol": "EMCO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 553,
+    "fields": {
+      "name": "Engro Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ENGRO",
+      "symbol": "ENGRO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 554,
+    "fields": {
+      "name": "Engro Polymer & Chemicals XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EPCL",
+      "symbol": "EPCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 555,
+    "fields": {
+      "name": "Engro Powergen Qadirpur Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EPQL",
+      "symbol": "EPQL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 556,
+    "fields": {
+      "name": "Escorts Investment  Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ESBL",
+      "symbol": "ESBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 557,
+    "fields": {
+      "name": "East West Insurance Co.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EWIC",
+      "symbol": "EWIC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 558,
+    "fields": {
+      "name": "Exide Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/EXIDE",
+      "symbol": "EXIDE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 559,
+    "fields": {
+      "name": "Faysal Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FABL",
+      "symbol": "FABL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 560,
+    "fields": {
+      "name": "AL-Noor Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FANM",
+      "symbol": "FANM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 561,
+    "fields": {
+      "name": "Fatima Fertilizer Company Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FATIMA",
+      "symbol": "FATIMA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 562,
+    "fields": {
+      "name": "Fauji Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FCCL",
+      "symbol": "FCCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 563,
+    "fields": {
+      "name": "First Capital Equities Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FCEL",
+      "symbol": "FCEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 564,
+    "fields": {
+      "name": "First Credit & Investment Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FCIBL",
+      "symbol": "FCIBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 565,
+    "fields": {
+      "name": "Constellation Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FCONM",
+      "symbol": "FCONM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 566,
+    "fields": {
+      "name": "First Capital Securities Corp. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FCSC",
+      "symbol": "FCSC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 567,
+    "fields": {
+      "name": "First Dawood Investment Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FDIBL",
+      "symbol": "FDIBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 568,
+    "fields": {
+      "name": "Elite Capital Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FECM",
+      "symbol": "FECM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 569,
+    "fields": {
+      "name": "Fecto Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FECTC",
+      "symbol": "FECTC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 570,
+    "fields": {
+      "name": "Equity Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FEM",
+      "symbol": "FEM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 571,
+    "fields": {
+      "name": "Ferozsons Laboratories Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FEROZ",
+      "symbol": "FEROZ"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 572,
+    "fields": {
+      "name": "Fauji Fertilizer Bin Qasim Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FFBL",
+      "symbol": "FFBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 573,
+    "fields": {
+      "name": "Fauij Fertilizer Company Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FFC",
+      "symbol": "FFC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 574,
+    "fields": {
+      "name": "Fauji Foods Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FFL",
+      "symbol": "FFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 575,
+    "fields": {
+      "name": "First Fidelity Leasing Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FFLM",
+      "symbol": "FFLM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 576,
+    "fields": {
+      "name": "Habib Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FHAM",
+      "symbol": "FHAM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 577,
+    "fields": {
+      "name": "IBL Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FIBLM",
+      "symbol": "FIBLM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 578,
+    "fields": {
+      "name": "Imrooz Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FIMM",
+      "symbol": "FIMM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 579,
+    "fields": {
+      "name": "Flying Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FLYNG",
+      "symbol": "FLYNG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 580,
+    "fields": {
+      "name": "Feroze1888 Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FML",
+      "symbol": "FML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 581,
+    "fields": {
+      "name": "First National Equities Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FNEL",
+      "symbol": "FNEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 582,
+    "fields": {
+      "name": "Punjab Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FPJM",
+      "symbol": "FPJM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 583,
+    "fields": {
+      "name": "Paramount Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FPRM",
+      "symbol": "FPRM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 584,
+    "fields": {
+      "name": "Frontier Ceramics Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FRCL",
+      "symbol": "FRCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 585,
+    "fields": {
+      "name": "Faran Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FRSM",
+      "symbol": "FRSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 586,
+    "fields": {
+      "name": "First Treet Mfg Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FTMM",
+      "symbol": "FTMM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 587,
+    "fields": {
+      "name": "Tri-Star Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FTSM",
+      "symbol": "FTSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 588,
+    "fields": {
+      "name": "U.D.L. Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FUDLM",
+      "symbol": "FUDLM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 589,
+    "fields": {
+      "name": "Fazal Cloth Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/FZCM",
+      "symbol": "FZCM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 590,
+    "fields": {
+      "name": "Gadoon Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GADT",
+      "symbol": "GADT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 591,
+    "fields": {
+      "name": "Ghani Automobile Industries",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GAIL",
+      "symbol": "GAIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 592,
+    "fields": {
+      "name": "Gammon Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GAMON",
+      "symbol": "GAMON"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 593,
+    "fields": {
+      "name": "Golden Arrow Selected Stocks Fund",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GASF",
+      "symbol": "GASF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 594,
+    "fields": {
+      "name": "Gatron (Industries) Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GATI",
+      "symbol": "GATI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 595,
+    "fields": {
+      "name": "Gul Ahmed Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GATM",
+      "symbol": "GATM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 596,
+    "fields": {
+      "name": "Ghazi Fabrics International Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GFIL",
+      "symbol": "GFIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 597,
+    "fields": {
+      "name": "Ghani Global Glass Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GGGL",
+      "symbol": "GGGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 598,
+    "fields": {
+      "name": "Ghani Gases Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GGL",
+      "symbol": "GGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 599,
+    "fields": {
+      "name": "Ghani Glass Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GHGL",
+      "symbol": "GHGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 600,
+    "fields": {
+      "name": "Ghandhara Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GHNI",
+      "symbol": "GHNI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 601,
+    "fields": {
+      "name": "Ghandhara Nissan Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GHNL",
+      "symbol": "GHNL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 602,
+    "fields": {
+      "name": "Goodluck Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GIL",
+      "symbol": "GIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 603,
+    "fields": {
+      "name": "GlaxoSmithKline Pakistan XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GLAXO",
+      "symbol": "GLAXO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 604,
+    "fields": {
+      "name": "Gillette Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GLPL",
+      "symbol": "GLPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 605,
+    "fields": {
+      "name": "GOC (Pak) Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GOC",
+      "symbol": "GOC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 606,
+    "fields": {
+      "name": "Grays Leasing Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GRYL",
+      "symbol": "GRYL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 607,
+    "fields": {
+      "name": "GlaxoSmithKline Consumer",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GSKCH",
+      "symbol": "GSKCH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 608,
+    "fields": {
+      "name": "General Tyre & Rubber Co.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GTYR",
+      "symbol": "GTYR"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 609,
+    "fields": {
+      "name": "Ghani Value Glass Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GVGL",
+      "symbol": "GVGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 610,
+    "fields": {
+      "name": "Gharibwal Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/GWLC",
+      "symbol": "GWLC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 611,
+    "fields": {
+      "name": "Habib Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HABSM",
+      "symbol": "HABSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 612,
+    "fields": {
+      "name": "Hala Enterprises Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HAEL",
+      "symbol": "HAEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 613,
+    "fields": {
+      "name": "Hafiz Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HAFL",
+      "symbol": "HAFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 614,
+    "fields": {
+      "name": "Habib-ADM Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HAL",
+      "symbol": "HAL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 615,
+    "fields": {
+      "name": "Hascol Petroleum Ltd XB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HASCOL",
+      "symbol": "HASCOL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 616,
+    "fields": {
+      "name": "Habib Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HBL",
+      "symbol": "HBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 617,
+    "fields": {
+      "name": "Honda Atlas Cars (Pakistan) Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HCAR",
+      "symbol": "HCAR"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 618,
+    "fields": {
+      "name": "Hallmark Company (+)",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HCL",
+      "symbol": "HCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 619,
+    "fields": {
+      "name": "HBL Growth Fund - (A)",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HGFA",
+      "symbol": "HGFA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 620,
+    "fields": {
+      "name": "Habib Insurance Co. Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HICL",
+      "symbol": "HICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 621,
+    "fields": {
+      "name": "HBL Investment Fund - (A)",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HIFA",
+      "symbol": "HIFA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 622,
+    "fields": {
+      "name": "Hinopak Motors Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HINO",
+      "symbol": "HINO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 623,
+    "fields": {
+      "name": "Highnoon Laboratories Ltd XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HINOON",
+      "symbol": "HINOON"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 624,
+    "fields": {
+      "name": "Hira Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HIRAT",
+      "symbol": "HIRAT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 625,
+    "fields": {
+      "name": "Habib Metropolitan Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HMB",
+      "symbol": "HMB"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 626,
+    "fields": {
+      "name": "Husein Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HSM",
+      "symbol": "HSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 627,
+    "fields": {
+      "name": "Huffaz Seamless Pipe Ind.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HSPI",
+      "symbol": "HSPI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 628,
+    "fields": {
+      "name": "Hi-Tech Lubricants Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HTL",
+      "symbol": "HTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 629,
+    "fields": {
+      "name": "Hub Power Company Ltd XR",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HUBC",
+      "symbol": "HUBC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 630,
+    "fields": {
+      "name": "Hum Network Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HUMNL",
+      "symbol": "HUMNL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 631,
+    "fields": {
+      "name": "Haseeb Waqas Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/HWQS",
+      "symbol": "HWQS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 632,
+    "fields": {
+      "name": "Ibrahim Fibres Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IBFL",
+      "symbol": "IBFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 633,
+    "fields": {
+      "name": "IBL HealthCare Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IBLHL",
+      "symbol": "IBLHL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 634,
+    "fields": {
+      "name": "I. C. I. Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ICI",
+      "symbol": "ICI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 635,
+    "fields": {
+      "name": "Invest Capital Investment Bank",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ICIBL",
+      "symbol": "ICIBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 636,
+    "fields": {
+      "name": "Ittehad Chemicals Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ICL",
+      "symbol": "ICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 637,
+    "fields": {
+      "name": "Idrees Textile Mills Ltd XB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IDRT",
+      "symbol": "IDRT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 638,
+    "fields": {
+      "name": "Ideal Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IDSM",
+      "symbol": "IDSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 639,
+    "fields": {
+      "name": "Indus Dyeing & Mfg Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IDYM",
+      "symbol": "IDYM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 640,
+    "fields": {
+      "name": "IGI Holdings Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IGIHL",
+      "symbol": "IGIHL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 641,
+    "fields": {
+      "name": "IGI Life Insurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/IGIL",
+      "symbol": "IGIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 642,
+    "fields": {
+      "name": "Interloop Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ILP",
+      "symbol": "ILP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 643,
+    "fields": {
+      "name": "Island Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ILTM",
+      "symbol": "ILTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 644,
+    "fields": {
+      "name": "Indus Motor Company Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/INDU",
+      "symbol": "INDU"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 645,
+    "fields": {
+      "name": "International Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/INIL",
+      "symbol": "INIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 646,
+    "fields": {
+      "name": "International Knitwear Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/INKL",
+      "symbol": "INKL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 647,
+    "fields": {
+      "name": "Ismail Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ISIL",
+      "symbol": "ISIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 648,
+    "fields": {
+      "name": "International Steels Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ISL",
+      "symbol": "ISL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 649,
+    "fields": {
+      "name": "Ishaq Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ISTM",
+      "symbol": "ISTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 650,
+    "fields": {
+      "name": "Ittefaq Iron Industries",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ITTEFAQ",
+      "symbol": "ITTEFAQ"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 651,
+    "fields": {
+      "name": "J.A.Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JATM",
+      "symbol": "JATM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 652,
+    "fields": {
+      "name": "Janana De  Malucho Textile",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JDMT",
+      "symbol": "JDMT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 653,
+    "fields": {
+      "name": "JDW Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JDWS",
+      "symbol": "JDWS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 654,
+    "fields": {
+      "name": "Jubilee General Insurance Co.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JGICL",
+      "symbol": "JGICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 655,
+    "fields": {
+      "name": "J.K.Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JKSM",
+      "symbol": "JKSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 656,
+    "fields": {
+      "name": "Jubilee Life Insurance Co. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JLICL",
+      "symbol": "JLICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 657,
+    "fields": {
+      "name": "Johnson & Phillips (Pakistan) Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JOPP",
+      "symbol": "JOPP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 658,
+    "fields": {
+      "name": "JS Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JSBL",
+      "symbol": "JSBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 659,
+    "fields": {
+      "name": "Jahangir Siddiqui & Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JSCL",
+      "symbol": "JSCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 660,
+    "fields": {
+      "name": "JS Global Capital Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JSGCL",
+      "symbol": "JSGCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 661,
+    "fields": {
+      "name": "JS Investments Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JSIL",
+      "symbol": "JSIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 662,
+    "fields": {
+      "name": "Jauharabad Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JSML",
+      "symbol": "JSML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 663,
+    "fields": {
+      "name": "Javedan Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/JVDC",
+      "symbol": "JVDC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 664,
+    "fields": {
+      "name": "Kot Addu Power Company",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KAPCO",
+      "symbol": "KAPCO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 665,
+    "fields": {
+      "name": "KASB Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KASBM",
+      "symbol": "KASBM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 666,
+    "fields": {
+      "name": "Karam Ceramics Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KCL",
+      "symbol": "KCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 667,
+    "fields": {
+      "name": "K-Electric Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KEL",
+      "symbol": "KEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 668,
+    "fields": {
+      "name": "Khyber Tobacco Company XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KHTC",
+      "symbol": "KHTC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 669,
+    "fields": {
+      "name": "Kohinoor Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KML",
+      "symbol": "KML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 670,
+    "fields": {
+      "name": "Kohat Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KOHC",
+      "symbol": "KOHC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 671,
+    "fields": {
+      "name": "Kohinoor Energy Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KOHE",
+      "symbol": "KOHE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 672,
+    "fields": {
+      "name": "Kohat Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KOHTM",
+      "symbol": "KOHTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 673,
+    "fields": {
+      "name": "Kohinoor Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KOIL",
+      "symbol": "KOIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 674,
+    "fields": {
+      "name": "Kohinoor Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KOSM",
+      "symbol": "KOSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 675,
+    "fields": {
+      "name": "Khairpur Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KPUS",
+      "symbol": "KPUS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 676,
+    "fields": {
+      "name": "K.S.B.Pumps Company Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KSBP",
+      "symbol": "KSBP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 677,
+    "fields": {
+      "name": "Kohinoor Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/KTML",
+      "symbol": "KTML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 678,
+    "fields": {
+      "name": "Leather-Up Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LEUL",
+      "symbol": "LEUL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 679,
+    "fields": {
+      "name": "Loads Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LOADS",
+      "symbol": "LOADS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 680,
+    "fields": {
+      "name": "Lotte Chemical Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LOTCHEM",
+      "symbol": "LOTCHEM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 681,
+    "fields": {
+      "name": "Leiner Pak Gelatine Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LPGL",
+      "symbol": "LPGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 682,
+    "fields": {
+      "name": "Lalpir Power Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LPL",
+      "symbol": "LPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 683,
+    "fields": {
+      "name": "Lucky Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/LUCK",
+      "symbol": "LUCK"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 684,
+    "fields": {
+      "name": "MACPAC Films Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MACFL",
+      "symbol": "MACFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 685,
+    "fields": {
+      "name": "Macter International Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MACTER",
+      "symbol": "MACTER"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 686,
+    "fields": {
+      "name": "Mari Petroleum Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MARI",
+      "symbol": "MARI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 687,
+    "fields": {
+      "name": "MCB Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MCB",
+      "symbol": "MCB"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 688,
+    "fields": {
+      "name": "MCB-Arif Habib Savings & Inv",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MCBAH",
+      "symbol": "MCBAH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 689,
+    "fields": {
+      "name": "Media Times Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MDTL",
+      "symbol": "MDTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 690,
+    "fields": {
+      "name": "Meezan Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MEBL",
+      "symbol": "MEBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 691,
+    "fields": {
+      "name": "Mahmood Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MEHT",
+      "symbol": "MEHT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 692,
+    "fields": {
+      "name": "Merit Packaging Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MERIT",
+      "symbol": "MERIT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 693,
+    "fields": {
+      "name": "Mitchell's Fruit Farms Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MFFL",
+      "symbol": "MFFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 694,
+    "fields": {
+      "name": "Matco Foods Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MFL",
+      "symbol": "MFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 695,
+    "fields": {
+      "name": "Mirpurkhas Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MIRKS",
+      "symbol": "MIRKS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 696,
+    "fields": {
+      "name": "Maple Leaf Cement Factory",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MLCF",
+      "symbol": "MLCF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 697,
+    "fields": {
+      "name": "Modaraba Al-Mali",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MODAM",
+      "symbol": "MODAM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 698,
+    "fields": {
+      "name": "Maqbool Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MQTM",
+      "symbol": "MQTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 699,
+    "fields": {
+      "name": "Mehran Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MRNS",
+      "symbol": "MRNS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 700,
+    "fields": {
+      "name": "Metropolitan  Steel Corp.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MSCL",
+      "symbol": "MSCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 701,
+    "fields": {
+      "name": "Masood Textile Mills",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MSOT",
+      "symbol": "MSOT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 702,
+    "fields": {
+      "name": "Millat Tractors Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MTL",
+      "symbol": "MTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 703,
+    "fields": {
+      "name": "Mughal Iron & Steel Industries",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MUGHAL",
+      "symbol": "MUGHAL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 704,
+    "fields": {
+      "name": "Murree Brewery Company",
+      "url": "https:\/\/dps.psx.com.pk\/company\/MUREB",
+      "symbol": "MUREB"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 705,
+    "fields": {
+      "name": "Nagina Cotton Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NAGC",
+      "symbol": "NAGC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 706,
+    "fields": {
+      "name": "National Foods Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NATF",
+      "symbol": "NATF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 707,
+    "fields": {
+      "name": "Nadeem Textile Mills Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NATM",
+      "symbol": "NATM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 708,
+    "fields": {
+      "name": "National Bank of Pakistan",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NBP",
+      "symbol": "NBP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 709,
+    "fields": {
+      "name": "Nishat (Chunian) Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NCL",
+      "symbol": "NCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 710,
+    "fields": {
+      "name": "Nishat Chunian Power Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NCPL",
+      "symbol": "NCPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 711,
+    "fields": {
+      "name": "Nestle Pakistan Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NESTLE",
+      "symbol": "NESTLE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 712,
+    "fields": {
+      "name": "NetSol Technologies Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NETSOL",
+      "symbol": "NETSOL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 713,
+    "fields": {
+      "name": "Next Capital Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NEXT",
+      "symbol": "NEXT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 714,
+    "fields": {
+      "name": "Nimir Industrial Chemicals Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NICL",
+      "symbol": "NICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 715,
+    "fields": {
+      "name": "Nishat Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NML",
+      "symbol": "NML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 716,
+    "fields": {
+      "name": "Noon Sugar Mills Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NONS",
+      "symbol": "NONS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 717,
+    "fields": {
+      "name": "Nishat Power Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NPL",
+      "symbol": "NPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 718,
+    "fields": {
+      "name": "N. P. Spinning Mills Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NPSM",
+      "symbol": "NPSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 719,
+    "fields": {
+      "name": "National Refinery Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NRL",
+      "symbol": "NRL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 720,
+    "fields": {
+      "name": "Nimir Resins Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NRSL",
+      "symbol": "NRSL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 721,
+    "fields": {
+      "name": "National Silk & Rayon Mills",
+      "url": "https:\/\/dps.psx.com.pk\/company\/NSRM",
+      "symbol": "NSRM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 722,
+    "fields": {
+      "name": "Oil & Gas Development Co. Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/OGDC",
+      "symbol": "OGDC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 723,
+    "fields": {
+      "name": "Orix Leasing Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/OLPL",
+      "symbol": "OLPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 724,
+    "fields": {
+      "name": "Olympia Mills Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/OML",
+      "symbol": "OML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 725,
+    "fields": {
+      "name": "Orix Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ORIXM",
+      "symbol": "ORIXM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 726,
+    "fields": {
+      "name": "Otsuka Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/OTSU",
+      "symbol": "OTSU"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 727,
+    "fields": {
+      "name": "Pace (Pakistan) Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PACE",
+      "symbol": "PACE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 728,
+    "fields": {
+      "name": "Pak Elektron Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAEL",
+      "symbol": "PAEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 729,
+    "fields": {
+      "name": "Pak Datacom Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAKD",
+      "symbol": "PAKD"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 730,
+    "fields": {
+      "name": "Pak Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAKMI",
+      "symbol": "PAKMI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 731,
+    "fields": {
+      "name": "Pakistan Oxygen Ltd XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAKOXY",
+      "symbol": "PAKOXY"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 732,
+    "fields": {
+      "name": "Pakistan Reinsurance Co. Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAKRI",
+      "symbol": "PAKRI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 733,
+    "fields": {
+      "name": "Pakistan Tobacco Co. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PAKT",
+      "symbol": "PAKT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 734,
+    "fields": {
+      "name": "Pakistan Cables Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PCAL",
+      "symbol": "PCAL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 735,
+    "fields": {
+      "name": "Pakistan Engineering Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PECO",
+      "symbol": "PECO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 736,
+    "fields": {
+      "name": "Pakistan Gum & Chemicals Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PGCL",
+      "symbol": "PGCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 737,
+    "fields": {
+      "name": "Pak- Gulf Leasing Company",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PGLC",
+      "symbol": "PGLC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 738,
+    "fields": {
+      "name": "Pakistan Hotels Developers",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PHDL",
+      "symbol": "PHDL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 739,
+    "fields": {
+      "name": "Pakistan Int Bulk Terminal Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PIBTL",
+      "symbol": "PIBTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 740,
+    "fields": {
+      "name": "Pakistan Int. Container Terminal XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PICT",
+      "symbol": "PICT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 741,
+    "fields": {
+      "name": "PICIC Insurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PIL",
+      "symbol": "PIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 742,
+    "fields": {
+      "name": "Popular Islamic Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PIM",
+      "symbol": "PIM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 743,
+    "fields": {
+      "name": "Premier Insurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PINL",
+      "symbol": "PINL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 744,
+    "fields": {
+      "name": "Pioneer Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PIOC",
+      "symbol": "PIOC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 745,
+    "fields": {
+      "name": "Pakgen Power Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PKGP",
+      "symbol": "PKGP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 746,
+    "fields": {
+      "name": "Packages Limited XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PKGS",
+      "symbol": "PKGS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 747,
+    "fields": {
+      "name": "Prudential Modaraba 1st",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PMI",
+      "symbol": "PMI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 748,
+    "fields": {
+      "name": "Philip Morris (Pakistan) Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PMPK",
+      "symbol": "PMPK"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 749,
+    "fields": {
+      "name": "Premier Sugar Mills Ltd  XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PMRS",
+      "symbol": "PMRS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 750,
+    "fields": {
+      "name": "P. N. S. C.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PNSC",
+      "symbol": "PNSC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 751,
+    "fields": {
+      "name": "Pakistan Oilfields Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/POL",
+      "symbol": "POL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 752,
+    "fields": {
+      "name": "Punjab Oil Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/POML",
+      "symbol": "POML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 753,
+    "fields": {
+      "name": "Power Cement Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/POWER",
+      "symbol": "POWER"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 754,
+    "fields": {
+      "name": "Pakistan Petroleum Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PPL",
+      "symbol": "PPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 755,
+    "fields": {
+      "name": "Pakistan Paper Products Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PPP",
+      "symbol": "PPP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 756,
+    "fields": {
+      "name": "At-Tahur Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PREMA",
+      "symbol": "PREMA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 757,
+    "fields": {
+      "name": "Premium Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PRET",
+      "symbol": "PRET"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 758,
+    "fields": {
+      "name": "Pakistan Refinery Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PRL",
+      "symbol": "PRL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 759,
+    "fields": {
+      "name": "Prosperity Weaving Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PRWM",
+      "symbol": "PRWM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 760,
+    "fields": {
+      "name": "Pakistan Services Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PSEL",
+      "symbol": "PSEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 761,
+    "fields": {
+      "name": "Pak Suzuki Motor Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PSMC",
+      "symbol": "PSMC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 762,
+    "fields": {
+      "name": "Pakistan State Oil Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PSO",
+      "symbol": "PSO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 763,
+    "fields": {
+      "name": "Pakistan Stock Exchange Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PSX",
+      "symbol": "PSX"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 764,
+    "fields": {
+      "name": "Pakistan Synthetics Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PSYL",
+      "symbol": "PSYL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 765,
+    "fields": {
+      "name": "P.T.C.L. \"A\"",
+      "url": "https:\/\/dps.psx.com.pk\/company\/PTC",
+      "symbol": "PTC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 766,
+    "fields": {
+      "name": "Quetta Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/QUET",
+      "symbol": "QUET"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 767,
+    "fields": {
+      "name": "Quice Food Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/QUICE",
+      "symbol": "QUICE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 768,
+    "fields": {
+      "name": "Reliance Cottton Spinning",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RCML",
+      "symbol": "RCML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 769,
+    "fields": {
+      "name": "Redco Textiles Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/REDCO",
+      "symbol": "REDCO"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 770,
+    "fields": {
+      "name": "Reliance Weaving Mills",
+      "url": "https:\/\/dps.psx.com.pk\/company\/REWM",
+      "symbol": "REWM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 771,
+    "fields": {
+      "name": "Reliance Insurance Co. Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RICL",
+      "symbol": "RICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 772,
+    "fields": {
+      "name": "Rafhan Maize Products",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RMPL",
+      "symbol": "RMPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 773,
+    "fields": {
+      "name": "Roshan Packages Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RPL",
+      "symbol": "RPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 774,
+    "fields": {
+      "name": "Ruby Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RUBY",
+      "symbol": "RUBY"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 775,
+    "fields": {
+      "name": "Rupali Polyester Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/RUPL",
+      "symbol": "RUPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 776,
+    "fields": {
+      "name": "Saif Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SAIF",
+      "symbol": "SAIF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 777,
+    "fields": {
+      "name": "Salfi Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SALT",
+      "symbol": "SALT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 778,
+    "fields": {
+      "name": "Sanghar Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SANSM",
+      "symbol": "SANSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 779,
+    "fields": {
+      "name": "Sanofi-aventis Pakistan  Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SAPL",
+      "symbol": "SAPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 780,
+    "fields": {
+      "name": "Sapphire Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SAPT",
+      "symbol": "SAPT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 781,
+    "fields": {
+      "name": "Sardar Chemical Industries",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SARC",
+      "symbol": "SARC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 782,
+    "fields": {
+      "name": "Sindh Abadgar's Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SASML",
+      "symbol": "SASML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 783,
+    "fields": {
+      "name": "Sazgar Engineering Works",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SAZEW",
+      "symbol": "SAZEW"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 784,
+    "fields": {
+      "name": "Samba Bank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SBL",
+      "symbol": "SBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 785,
+    "fields": {
+      "name": "Standard Chartered Bank Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SCBPL",
+      "symbol": "SCBPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 786,
+    "fields": {
+      "name": "Shield Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SCL",
+      "symbol": "SCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 787,
+    "fields": {
+      "name": "The Searle Company Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SEARL",
+      "symbol": "SEARL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 788,
+    "fields": {
+      "name": "Sitara Energy Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SEL",
+      "symbol": "SEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 789,
+    "fields": {
+      "name": "Security Papers Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SEPL",
+      "symbol": "SEPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 790,
+    "fields": {
+      "name": "Service Fabrics Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SERF",
+      "symbol": "SERF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 791,
+    "fields": {
+      "name": "Service Textiles Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SERT",
+      "symbol": "SERT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 792,
+    "fields": {
+      "name": "Sapphire Fibres Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SFL",
+      "symbol": "SFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 793,
+    "fields": {
+      "name": "SFL Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SFLL",
+      "symbol": "SFLL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 794,
+    "fields": {
+      "name": "Shadman Cotton Mills",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHCM",
+      "symbol": "SHCM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 795,
+    "fields": {
+      "name": "Shadab Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHDT",
+      "symbol": "SHDT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 796,
+    "fields": {
+      "name": "Shell (Pakistan) Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHEL",
+      "symbol": "SHEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 797,
+    "fields": {
+      "name": "Shezan International Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHEZ",
+      "symbol": "SHEZ"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 798,
+    "fields": {
+      "name": "Shifa International Hospitals",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHFA",
+      "symbol": "SHFA"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 799,
+    "fields": {
+      "name": "Shahtaj Sugar Mills Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHJS",
+      "symbol": "SHJS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 800,
+    "fields": {
+      "name": "Shaheen Insurance Co. Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHNI",
+      "symbol": "SHNI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 801,
+    "fields": {
+      "name": "Shahmurad Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SHSML",
+      "symbol": "SHSML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 802,
+    "fields": {
+      "name": "Security Investment Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SIBL",
+      "symbol": "SIBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 803,
+    "fields": {
+      "name": "Siemens (Pakistan) Engineering",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SIEM",
+      "symbol": "SIEM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 804,
+    "fields": {
+      "name": "Silkbank Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SILK",
+      "symbol": "SILK"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 805,
+    "fields": {
+      "name": "Sindh Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SINDM",
+      "symbol": "SINDM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 806,
+    "fields": {
+      "name": "Sitara Chemical Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SITC",
+      "symbol": "SITC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 807,
+    "fields": {
+      "name": "Sakrand Sugar Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SKRS",
+      "symbol": "SKRS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 808,
+    "fields": {
+      "name": "Security Leasing Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SLCL",
+      "symbol": "SLCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 809,
+    "fields": {
+      "name": "SME Leasing Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SLL",
+      "symbol": "SLL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 810,
+    "fields": {
+      "name": "Summit Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SMBL",
+      "symbol": "SMBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 811,
+    "fields": {
+      "name": "Safe Mix Concrete Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SMCPL",
+      "symbol": "SMCPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 812,
+    "fields": {
+      "name": "Shakarganj Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SML",
+      "symbol": "SML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 813,
+    "fields": {
+      "name": "Samin Textiles Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SMTM",
+      "symbol": "SMTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 814,
+    "fields": {
+      "name": "Sana Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SNAI",
+      "symbol": "SNAI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 815,
+    "fields": {
+      "name": "Soneri Bank Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SNBL",
+      "symbol": "SNBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 816,
+    "fields": {
+      "name": "Sui Northern Gas Pipelines",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SNGP",
+      "symbol": "SNGP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 817,
+    "fields": {
+      "name": "Synthetic Products Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SPEL",
+      "symbol": "SPEL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 818,
+    "fields": {
+      "name": "Sitara Peroxide Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SPL",
+      "symbol": "SPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 819,
+    "fields": {
+      "name": "Saif Power Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SPWL",
+      "symbol": "SPWL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 820,
+    "fields": {
+      "name": "Service Industries Ltd. XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SRVI",
+      "symbol": "SRVI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 821,
+    "fields": {
+      "name": "Sui Southern Gas Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SSGC",
+      "symbol": "SSGC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 822,
+    "fields": {
+      "name": "Saritow Spinning Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SSML",
+      "symbol": "SSML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 823,
+    "fields": {
+      "name": "S.S.Oil Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SSOM",
+      "symbol": "SSOM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 824,
+    "fields": {
+      "name": "Shabbir Tiles & Ceramics Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/STCL",
+      "symbol": "STCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 825,
+    "fields": {
+      "name": "Shahtaj Textile Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/STJT",
+      "symbol": "STJT"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 826,
+    "fields": {
+      "name": "Shams Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/STML",
+      "symbol": "STML"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 827,
+    "fields": {
+      "name": "Siddiqsons Tin Plate Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/STPL",
+      "symbol": "STPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 828,
+    "fields": {
+      "name": "Suraj Cotton Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SURC",
+      "symbol": "SURC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 829,
+    "fields": {
+      "name": "Sunrays Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SUTM",
+      "symbol": "SUTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 830,
+    "fields": {
+      "name": "Systems Limited XDXB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SYS",
+      "symbol": "SYS"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 831,
+    "fields": {
+      "name": "Shahzad Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/SZTM",
+      "symbol": "SZTM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 832,
+    "fields": {
+      "name": "Tata Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TATM",
+      "symbol": "TATM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 833,
+    "fields": {
+      "name": "Telecard Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TELE",
+      "symbol": "TELE"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 834,
+    "fields": {
+      "name": "Tariq Glass Industries Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TGL",
+      "symbol": "TGL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 835,
+    "fields": {
+      "name": "Thal Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/THALL",
+      "symbol": "THALL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 836,
+    "fields": {
+      "name": "Thatta Cement Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/THCCL",
+      "symbol": "THCCL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 837,
+    "fields": {
+      "name": "Thal Industries Corporation",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TICL",
+      "symbol": "TICL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 838,
+    "fields": {
+      "name": "Towellers Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TOWL",
+      "symbol": "TOWL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 839,
+    "fields": {
+      "name": "TPL Corp Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TPL",
+      "symbol": "TPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 840,
+    "fields": {
+      "name": "TPL Insurance Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TPLI",
+      "symbol": "TPLI"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 841,
+    "fields": {
+      "name": "TPL Properties Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TPLP",
+      "symbol": "TPLP"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 842,
+    "fields": {
+      "name": "Treet Corporation Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TREET",
+      "symbol": "TREET"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 843,
+    "fields": {
+      "name": "TRG Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TRG",
+      "symbol": "TRG"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 844,
+    "fields": {
+      "name": "Trust Investment Bank Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TRIBL",
+      "symbol": "TRIBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 845,
+    "fields": {
+      "name": "Tri-Pack Films Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TRIPF",
+      "symbol": "TRIPF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 846,
+    "fields": {
+      "name": "Tri-Star Polyester LtdXD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TRPOL",
+      "symbol": "TRPOL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 847,
+    "fields": {
+      "name": "Trust Modaraba",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TRSM",
+      "symbol": "TRSM"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 848,
+    "fields": {
+      "name": "Trust Securities  & Brokerage",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TSBL",
+      "symbol": "TSBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 849,
+    "fields": {
+      "name": "Tri-Star Mutual Fund",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TSMF",
+      "symbol": "TSMF"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 850,
+    "fields": {
+      "name": "Tri-Star Power Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/TSPL",
+      "symbol": "TSPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 851,
+    "fields": {
+      "name": "United Brands Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UBDL",
+      "symbol": "UBDL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 852,
+    "fields": {
+      "name": "United Bank  Ltd. XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UBL",
+      "symbol": "UBL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 853,
+    "fields": {
+      "name": "United Distributors",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UDPL",
+      "symbol": "UDPL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 854,
+    "fields": {
+      "name": "United Insurance Co. of Pakistan XB",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UNIC",
+      "symbol": "UNIC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 855,
+    "fields": {
+      "name": "Unity Foods Limited",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UNITY",
+      "symbol": "UNITY"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 856,
+    "fields": {
+      "name": "Unilever Pakistan Foods Ltd XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UPFL",
+      "symbol": "UPFL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 857,
+    "fields": {
+      "name": "Universal Insurance Co. Ltd.",
+      "url": "https:\/\/dps.psx.com.pk\/company\/UVIC",
+      "symbol": "UVIC"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 858,
+    "fields": {
+      "name": "Wah-Noble Chemicals Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/WAHN",
+      "symbol": "WAHN"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 859,
+    "fields": {
+      "name": "Waves Singer Pakistan XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/WAVES",
+      "symbol": "WAVES"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 860,
+    "fields": {
+      "name": "WorldCall Telecom Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/WTL",
+      "symbol": "WTL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 861,
+    "fields": {
+      "name": "Wyeth Pakistan Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/WYETH",
+      "symbol": "WYETH"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 862,
+    "fields": {
+      "name": "Yousaf Weaving Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/YOUW",
+      "symbol": "YOUW"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 863,
+    "fields": {
+      "name": "Zahidjee Textile Mills Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ZAHID",
+      "symbol": "ZAHID"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 864,
+    "fields": {
+      "name": "ZIL Limited XD",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ZIL",
+      "symbol": "ZIL"
+    }
+  },
+  {
+    "model": "portfolio_app.stock",
+    "pk": 865,
+    "fields": {
+      "name": "Zephyr Textiles Ltd",
+      "url": "https:\/\/dps.psx.com.pk\/company\/ZTL",
+      "symbol": "ZTL"
+    }
+  }
+]

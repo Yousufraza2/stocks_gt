@@ -1,0 +1,191 @@
+{% extends 'base.html' %}
+{% load humanize %}
+{% load stockpick_extras %} 
+
+{% block title %}
+GT Stocks - Portfolio {{portfolio.name}}
+{% endblock %}
+
+{% block content %}
+    {% if portfolio %}
+        <div class="container container-wide">
+            <div class="row align-items-end">
+                <div class="col-10 text-left">
+                    <span class="h2">{{portfolio.name}}</span>
+                    <a href="{{request.path}}/edit">
+                        <i class="fas fa-edit"></i>
+                    </a>
+                </div>
+                <div class="col text-right refresh-button">
+                    <a href="#" onclick="window.location.reload();">
+                        <i class="fas fa-sync-alt"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="stocks-table">
+                <div class="card portfolio-totals">
+                    <div class="row row-item">
+                        <div class="col col-first">
+                            <div class="symbol black">TOTAL</div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Current Value</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="current-price value main-value">{{portfolio|current_value|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Original Cost</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="original-price value">{{portfolio|original_value|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Annualized Return</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="original-price value">{{portfolio|annualized_return|floatformat:2}}%</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Daily P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ portfolio|daily_pl|sign }}">{{portfolio|daily_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">YTD P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ portfolio|ytd_pl|sign }}">{{portfolio|ytd_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Total P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ portfolio|total_pl|sign }}">{{portfolio|total_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Daily P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ portfolio|daily_pl_percent|sign }}">{{portfolio|daily_pl_percent|floatformat:2}}%</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">YTD P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ portfolio|ytd_pl_percent|sign }}">{{portfolio|ytd_pl_percent|floatformat:2}}%</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Total P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ portfolio|total_pl|sign }}">{{portfolio|total_pl_percent|floatformat:2}}%</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                {% for stockpick in stockpick_sets %}
+                <div class="card">
+                    <div class="row row-item">
+                        <div class="col col-first">
+                            <a href="{{stockpick.stock.url}}">
+                                <div class="symbol">{{stockpick.stock.symbol}}</div>
+                            </a>
+                            <div class="name">{{stockpick.stock.name}}</div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Current Price</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="current-price value main-value">{{stockpick.stock|current_value|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Avg. Cost</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="original-price value">{{stockpick.value_per_share|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Quantity</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="number-shares value">{{stockpick.quantity|intcomma}}</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Current Value</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="current-price value main-value">{{stockpick|current_value|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Original Cost</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="original-price value">{{stockpick|original_value|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Annualized Return</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="original-price value main-value">{{stockpick|annualized_return|floatformat:2}}%</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Daily P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ stockpick|daily_pl|sign }}">{{stockpick|daily_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">YTD P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ stockpick|ytd_pl|sign }}">{{stockpick|ytd_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Total P/L</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss value main-value {{ stockpick|total_pl|sign }}">{{stockpick|total_pl|floatformat:2|intcomma}}</div>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row inner-row">
+                                <div class="label">Daily P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ stockpick|daily_pl_percent|sign }}">{{stockpick|daily_pl_percent|floatformat:2}}%</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">YTD P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ stockpick|ytd_pl_percent|sign }}">{{stockpick|ytd_pl_percent|floatformat:2}}%</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="label">Total P/L (%)</div>
+                            </div>
+                            <div class="row inner-row">
+                                <div class="profit-loss-percent value main-value {{ stockpick|total_pl|sign }}">{{stockpick|total_pl_percent|floatformat:2}}%</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% else %}
+        <p>No polls are available.</p>
+    {% endif %}
+{% endblock %}

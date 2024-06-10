@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+rope = "*"
+pylint-django = "*"
+
+[packages]
+scrapy = "*"
+django = "*"
+python-dotenv = "*"
+requests = "*"
+django-widget-tweaks = "*"
+
+[requires]
+python_version = "3.7"
